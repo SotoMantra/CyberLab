@@ -1,0 +1,22 @@
+# Obsidian workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Trash
+.trash/
+
+# Linux
+*~
+.directory
+
+# Temporary files
+*.tmp
+*.temp
+
+# Sensitive / private material
+Private/
+Secrets/
+.env
+.env.*
+*.key
+*.pem
