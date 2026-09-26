@@ -34,13 +34,6 @@ Commands used:
 
     # Paste commands here
 
-### Step 2
-
-What did I do?
-
-Commands used:
-
-    # Paste commands here
 
 ---
 

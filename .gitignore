@@ -1,6 +1,8 @@
-# Obsidian workspace state
+# Obsidian workspace/UI state
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
 
 # Trash
 .trash/
