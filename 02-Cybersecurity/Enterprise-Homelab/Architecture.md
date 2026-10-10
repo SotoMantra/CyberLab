@@ -9,6 +9,11 @@ The physical Proxmox host connects to the home router through Ethernet. Proxmox 
 This design allows multiple security zones to operate on a single physical server while maintaining logical separation between systems.
 
 ---
+## Architecture Diagram
+
+![Enterprise Cybersecurity Homelab Architecture](assets/network-diagram.png)
+
+---
 
 # Physical Architecture
 

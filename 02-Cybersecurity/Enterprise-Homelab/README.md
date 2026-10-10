@@ -23,6 +23,17 @@ The primary goals of this lab are to:
 
 ---
 
+
+## Architecture Diagram
+
+![Enterprise Cybersecurity Homelab Architecture](assets/network-diagram.png)
+
+
+
+
+---
+
+
 # 🏗️ High-Level Architecture
 
 The environment is hosted on a Proxmox virtualization server.
