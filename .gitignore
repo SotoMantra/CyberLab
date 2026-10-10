@@ -3,6 +3,9 @@
 .obsidian/workspace-mobile.json
 .obsidian/workspace-mobile.json
 .obsidian/graph.json
+# Obsidian local appearance/themes
+.obsidian/themes/
+.obsidian/appearance.json
 # Private Obsidian study notes
 08-Study/
 
