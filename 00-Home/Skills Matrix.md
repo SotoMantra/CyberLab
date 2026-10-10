@@ -13,33 +13,33 @@
 
 ## 🛡️ Cybersecurity
 
-| Skill | Level | Evidence / Project |
-|---|---|---|
-| SIEM | 🔵 Practicing | [[Wazuh SIEM]] |
-| Security Monitoring | 🔵 Practicing | [[Wazuh SIEM]] |
-| Log Analysis | 🔵 Practicing | [[Wazuh SIEM]] |
-| Network Security | 🔵 Practicing | [[Enterprise Cybersecurity Homelab]] |
-| Network Segmentation | 🟢 Working | [[VLAN Architecture]] |
-| Firewall Administration | 🔵 Practicing | [[pfSense]] |
-| Honeypots | 🔵 Practicing | [[T-Pot Honeypot]] |
-| Active Directory Security | 🔵 Practicing | [[Active Directory]] |
-| Vulnerability Management | 🟡 Learning | |
-| Detection Engineering | 🟡 Learning | |
+| Skill                     | Level        | Evidence / Project                                        |
+| ------------------------- | ------------ | --------------------------------------------------------- |
+| Network Segmentation      | 🟢 Working   | [[Enterprise Cybersecurity Homelab]] / [[Network Design]] |
+| Firewall Administration   | 🟢 Working   | [[Security Controls]] / [[Lessons Learned]]               |
+| Network Security          | 🟢 Working   | [[Enterprise Cybersecurity Homelab]]                      |
+| SIEM                      | 🔵Practicing | [[Wazuh SIEM]]                                            |
+| Security Monitoring       | 🔵Practicing | [[Wazuh SIEM]]                                            |
+| Log Analysis              | 🔵Practicing | [[Wazuh SIEM]]                                            |
+| Honeypots                 | 🔵Practicing | [[T-Pot Honeypot]]                                        |
+| Active Directory Security | 🔵Practicing | [[Active Directory]]                                      |
+| Detection Engineering     | 🟡 Learning  |                                                           |
 
 ---
 
 ## 🌐 Networking
 
-| Skill | Level | Evidence / Project |
-|---|---|---|
-| TCP/IP | 🔵 Practicing | Homelab |
-| VLANs | 🟢 Working | [[VLAN Architecture]] |
-| DNS | 🔵 Practicing | [[Active Directory]] / [[pfSense]] |
-| DHCP | 🔵 Practicing | [[pfSense]] |
-| Firewall Rules | 🔵 Practicing | [[pfSense]] |
-| NAT / Port Forwarding | 🔵 Practicing | Homelab / T-Pot |
-| VPN | 🔵 Practicing | [[Tailscale]] / WireGuard |
-| Network Troubleshooting | 🔵 Practicing | Homelab |
+| Skill                   | Level         | Evidence / Project    |
+| ----------------------- | ------------- | --------------------- |
+| TCP/IP                  | 🟢 Working    | [[Network Design]]    |
+| VLANs                   | 🟢 Working    | [[Network Design]]    |
+| Routing                 | 🟢 Working    | [[Network Design]]    |
+| DNS                     | 🔵 Practicing | [[Security Controls]] |
+| DHCP                    | 🔵 Practicing | [[Network Design]]    |
+| Firewall Rules          | 🟢 Working    | [[Security Controls]] |
+| NAT                     | 🔵 Practicing | [[Network Design]]    |
+| Network Troubleshooting | 🟢 Working    | [[Lessons Learned]]   |
+| CIDR / Subnetting       | 🔵 Practicing |  [[Lessons Learned]]  |
 
 ---
 
@@ -55,6 +55,17 @@
 | systemd | 🔵 Practicing | Linux administration |
 | SSH | 🟢 Working | Homelab / Linux |
 | Virtualization | 🟢 Working | [[Proxmox]] |
+
+---
+## 🖥️ Infrastructure
+
+| Skill | Level | Evidence / Project |
+|---|---|---|
+| Proxmox | 🟢 Working | [[Architecture]] / [[Network Design]] |
+| Virtual Machines | 🟢 Working | [[Enterprise Cybersecurity Homelab]] |
+| Virtual Networking | 🟢 Working | [[Architecture]] |
+| Linux Bridges | 🟢 Working | [[Network Design]] |
+| pfSense | 🟢 Working | [[Security Controls]] |
 
 ---
 

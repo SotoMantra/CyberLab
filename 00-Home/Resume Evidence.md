@@ -8,7 +8,11 @@
 
 ## Technologies
 
-Proxmox, pfSense, Windows Server, Active Directory, Windows, Linux, Kali Linux, VLANs, DNS, DHCP
+Designed and maintained a segmented enterprise-style cybersecurity lab using Proxmox, pfSense, Windows, Linux, Wazuh, T-Pot, Kali Linux, and isolated vulnerable-target infrastructure.
+
+Implemented VLAN-based segmentation across server, administration, honeypot, monitoring, and attack/testing networks. Audited and hardened pfSense firewall policies using host-specific rules, aliases, approved DNS, explicit deny controls, and least-privilege inter-VLAN access.
+
+Identified and corrected an overlapping WAN/LAN subnet configuration, misconfigured pfSense interface-address rules, improper source-interface rule placement, and overly broad allow-all policies.
 
 ## Accomplishments
 
@@ -21,9 +25,15 @@ Proxmox, pfSense, Windows Server, Active Directory, Windows, Linux, Kali Linux, 
 
 ## Resume Bullet Candidates
 
-- Designed and built a segmented enterprise-style cybersecurity lab using Proxmox, pfSense, Windows Server, Linux, and multiple VLANs to practice network security, systems administration, and security monitoring.
 
-- Implemented network segmentation and firewall policies separating server, administrative, monitoring, honeypot, attack/testing, and management environments.
+-  Designed and hardened a segmented Proxmox/pfSense cybersecurity lab spanning server, admin, monitoring, honeypot, and attack VLANs with least-privilege firewall controls.
+
+- Audited and remediated pfSense firewall policies by replacing broad allow-all rules with host-specific DNS, NTP, web, monitoring, and administrative access controls.
+
+- Troubleshot VLAN, routing, DNS, subnet, and firewall issues using Linux networking tools, pfSense logs, ARP/neighbor analysis, and Proxmox network inspection.
+
+- Built an isolated penetration-testing network using Proxmox Linux bridges, allowing Kali Linux to test Metasploitable 2 without exposing the vulnerable target to trusted networks.
+
 
 ---
 
