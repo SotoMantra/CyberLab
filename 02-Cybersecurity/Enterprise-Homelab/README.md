@@ -45,8 +45,6 @@ pfSense provides routing and firewall controls between multiple isolated network
          ├── VLAN 40 — Monitoring
          │
          ├── VLAN 50 — Attack / Testing
-         │
-         └── VLAN 99 — Management
 
 Each network segment serves a specific role and can be controlled using firewall policies.
 
@@ -58,14 +56,13 @@ A detailed architecture diagram will be maintained in:
 
 # 🌐 Network Segmentation
 
-| VLAN | Role | Example Systems |
-|---|---|---|
-| VLAN 10 | Servers | Domain Controller, Windows systems |
-| VLAN 20 | Administration | Administrative Jumpbox |
-| VLAN 30 | Honeypot | T-Pot |
-| VLAN 40 | Monitoring | Wazuh |
-| VLAN 50 | Attack / Testing | Kali Linux |
-| VLAN 99 | Management | Infrastructure management |
+| VLAN    | Role             | Example Systems                    |
+| ------- | ---------------- | ---------------------------------- |
+| VLAN 10 | Servers          | Domain Controller, Windows systems |
+| VLAN 20 | Administration   | Administrative Jumpbox             |
+| VLAN 30 | Honeypot         | T-Pot                              |
+| VLAN 40 | Monitoring       | Wazuh                              |
+| VLAN 50 | Attack / Testing | Kali Linux                         |
 
 Segmentation allows security policies to control which systems and services are permitted to communicate between network zones.
 
